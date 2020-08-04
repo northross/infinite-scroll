@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh- pages -d infinite-scroll"
+    "deploy": "gh-pages -d infinite-scroll"
   },
   "repository": {
     "type": "git",
